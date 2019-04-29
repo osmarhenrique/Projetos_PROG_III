@@ -1,0 +1,32 @@
+			
+			html{background-image: url(/curriculo/imagens/fundo.jpg);}	
+			
+			h1{
+				color:white;
+				border: thin solid white;
+				background-color: black;
+				text-align: center;}
+
+			h2{
+				color:white;
+				border: thin solid white;
+				text-align: center;
+				background-color: black}
+
+			#mainSection{
+				margin-left: 600px;
+				width: 600px;
+				text-align: center;}
+
+			#icons{
+				margin-top: 20px;
+				float: left;
+				max-width:50px;
+    			max-height:50px;
+    			text-align: center; }
+
+			img{
+				margin-left: 100px;
+				width: 400px;
+				float: left;}
+
